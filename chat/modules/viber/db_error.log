@@ -1,0 +1,5 @@
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sender' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message_type' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message_type' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message_type' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message_type' cannot be null

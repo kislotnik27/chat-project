@@ -1,0 +1,622 @@
+2024-06-17 00:31:02 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718573462219
+    [message_token:protected] => 5983240448539347270
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Hhh
+        )
+
+)
+
+2024-06-17 00:31:02 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Hhh
+2024-06-17 00:31:02 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:31:02 - Successfully saved user and message
+2024-06-17 00:31:02 - User and message saved
+2024-06-17 00:31:02 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Hhh","message_type":"text","media_url":null,"message_id_tg":5983240448539347270,"reply_to_message_id":null}
+2024-06-17 00:31:02 - Sent WebSocket message
+2024-06-17 00:31:56 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718573516125
+    [message_token:protected] => 5983240674658470497
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Hhh
+        )
+
+)
+
+2024-06-17 00:31:56 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Hhh
+2024-06-17 00:31:56 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:31:56 - Successfully saved user and message
+2024-06-17 00:31:56 - User and message saved
+2024-06-17 00:31:56 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Hhh","message_type":"text","media_url":null,"message_id_tg":5983240674658470497,"reply_to_message_id":null}
+2024-06-17 00:31:56 - Sent WebSocket message
+2024-06-17 00:31:59 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718573518726
+    [message_token:protected] => 5983240685660130059
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Fish’s
+        )
+
+)
+
+2024-06-17 00:31:59 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Fish’s
+2024-06-17 00:31:59 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:31:59 - Successfully saved user and message
+2024-06-17 00:31:59 - User and message saved
+2024-06-17 00:31:59 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Fish\u2019s","message_type":"text","media_url":null,"message_id_tg":5983240685660130059,"reply_to_message_id":null}
+2024-06-17 00:31:59 - Sent WebSocket message
+2024-06-17 00:32:02 - Successfully saved user and message
+2024-06-17 00:32:03 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u04303\u043043","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:32:13 - Successfully saved user and message
+2024-06-17 00:32:13 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1NTEuSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:32:19 - Successfully saved user and message
+2024-06-17 00:38:16 - Successfully saved user and message
+2024-06-17 00:38:17 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u043b\u043b\u043b","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:38:32 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718573911886
+    [message_token:protected] => 5983242334583638518
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => HHS
+        )
+
+)
+
+2024-06-17 00:38:32 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): HHS
+2024-06-17 00:38:32 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:38:32 - Successfully saved user and message
+2024-06-17 00:38:32 - User and message saved
+2024-06-17 00:38:32 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"HHS","message_type":"text","media_url":null,"message_id_tg":5983242334583638518,"reply_to_message_id":null}
+2024-06-17 00:38:32 - Sent WebSocket message
+2024-06-17 00:38:36 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718573916247
+    [message_token:protected] => 5983242352866609918
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Gggg
+        )
+
+)
+
+2024-06-17 00:38:36 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Gggg
+2024-06-17 00:38:36 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:38:36 - Successfully saved user and message
+2024-06-17 00:38:36 - User and message saved
+2024-06-17 00:38:36 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Gggg","message_type":"text","media_url":null,"message_id_tg":5983242352866609918,"reply_to_message_id":null}
+2024-06-17 00:38:36 - Sent WebSocket message
+2024-06-17 00:40:31 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718574030530
+    [message_token:protected] => 5983242832204253570
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Guy
+        )
+
+)
+
+2024-06-17 00:40:31 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Guy
+2024-06-17 00:40:31 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:40:31 - Successfully saved user and message
+2024-06-17 00:40:31 - User and message saved
+2024-06-17 00:40:31 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Guy","message_type":"text","media_url":null,"message_id_tg":5983242832204253570,"reply_to_message_id":null}
+2024-06-17 00:40:31 - Sent WebSocket message
+2024-06-17 00:40:36 - Successfully saved user and message
+2024-06-17 00:40:37 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u043a43\u043a34\u043a\u0430\u0443\u043a\u043f\u043a\u043f","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:40:49 - Successfully saved user and message
+2024-06-17 00:40:50 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzk4MDAuSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:40:58 - Successfully saved user and message
+2024-06-17 00:40:59 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1MjAuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:42:41 - Successfully saved user and message
+2024-06-17 00:42:42 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u0430\u0430\u0430","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:42:55 - Successfully saved user and message
+2024-06-17 00:43:25 - Successfully saved user and message
+2024-06-17 00:43:26 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u0432\u0432\u0432","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:43:31 - Successfully saved user and message
+2024-06-17 00:45:29 - Successfully saved user and message
+2024-06-17 00:45:29 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ2MjUuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:45:41 - Successfully saved user and message
+2024-06-17 00:45:41 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u043043\u043043\u043f","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:45:46 - Successfully saved user and message
+2024-06-17 00:45:46 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_cGhvdG9fMjAyNC0wNi0xM18wMC0wNS00MC4xODAweDEyMDB3LmpwZw.jpg","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:45:53 - Successfully saved user and message
+2024-06-17 00:45:54 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_cGhvdG9fMjAyNC0wNi0xM18wMC0wNS00MC4xODAweDEyMDB3LmpwZw.jpg","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:45:54 - Successfully saved user and message
+2024-06-17 00:45:54 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_cGhvdG9fMjAyNC0wNi0xM18wMC0wMi0xNS4xODAweDEyMDB3LmpwZw.jpg","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:45:54 - Successfully saved user and message
+2024-06-17 00:45:54 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_cGhvdG9fMjAyNC0wNi0xM18wMC0xMy0yMC4xODAweDEyMDB3LmpwZw.jpg","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:46:05 - Successfully saved user and message
+2024-06-17 00:46:06 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ2NzcuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:46:06 - Successfully saved user and message
+2024-06-17 00:46:06 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1MjAuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:46:06 - Successfully saved user and message
+2024-06-17 00:46:06 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718574365940
+    [message_token:protected] => 5983244238965426455
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Bb
+        )
+
+)
+
+2024-06-17 00:46:06 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Bb
+2024-06-17 00:46:06 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:46:06 - Successfully saved user and message
+2024-06-17 00:46:06 - User and message saved
+2024-06-17 00:46:06 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Bb","message_type":"text","media_url":null,"message_id_tg":5983244238965426455,"reply_to_message_id":null}
+2024-06-17 00:46:06 - Sent WebSocket message
+2024-06-17 00:46:06 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ2MjUuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:23 - Successfully saved user and message
+2024-06-17 00:47:23 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u0430\u0446\u0443\u0430\u0446\u0443\u0430","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:27 - Successfully saved user and message
+2024-06-17 00:47:27 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u0430\u0430\u0443\u0430\u0443\u0430","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:40 - Successfully saved user and message
+2024-06-17 00:47:40 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ2NzcuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:40 - Successfully saved user and message
+2024-06-17 00:47:41 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1MjAuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:41 - Successfully saved user and message
+2024-06-17 00:47:41 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ2MjUuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:47:54 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718574474129
+    [message_token:protected] => 5983244692805896527
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => Photo
+        )
+
+)
+
+2024-06-17 00:47:54 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): Photo
+2024-06-17 00:47:54 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 00:47:54 - Successfully saved user and message
+2024-06-17 00:47:54 - User and message saved
+2024-06-17 00:47:54 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"Photo","message_type":"text","media_url":null,"message_id_tg":5983244692805896527,"reply_to_message_id":null}
+2024-06-17 00:47:54 - Sent WebSocket message
+2024-06-17 00:48:15 - Successfully saved user and message
+2024-06-17 00:48:15 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1NDcuSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:48:15 - Successfully saved user and message
+2024-06-17 00:48:15 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1NTAuSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:48:15 - Successfully saved user and message
+2024-06-17 00:48:15 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1NDkuSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 00:48:15 - Successfully saved user and message
+2024-06-17 00:48:16 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"photo","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1NDguSlBH.JPG","message_id":null,"reply_to_message_id":null}
+2024-06-17 01:01:48 - Successfully saved user and message
+2024-06-17 01:01:49 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"Dhhdbdhd","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 01:01:58 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1718575317468
+    [message_token:protected] => 5983248229984094327
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => The only way I could Ty
+        )
+
+)
+
+2024-06-17 01:01:58 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): The only way I could Ty
+2024-06-17 01:01:58 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-17 01:01:58 - Successfully saved user and message
+2024-06-17 01:01:58 - User and message saved
+2024-06-17 01:01:58 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"The only way I could Ty","message_type":"text","media_url":null,"message_id_tg":5983248229984094327,"reply_to_message_id":null}
+2024-06-17 01:01:58 - Sent WebSocket message
+2024-06-17 15:51:09 - Successfully saved user and message
+2024-06-17 15:51:09 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u0440\u0435\u043a\u0440\u0435\u043a\u0440\u043a\u0435\u0440","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-17 15:51:18 - Successfully saved user and message
+2024-06-17 15:51:19 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"","message_type":"video","media_url":"https:\/\/work.elaliza.com\/media\/admin\/compressed_SU1HXzQ1MjAuTU9W.MOV","message_id":null,"reply_to_message_id":null}
+2024-06-22 19:32:20 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1719073938846
+    [message_token:protected] => 5985339599943544099
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => https://gold.ua/prod/men-39-s-watch-lc06641-350-1681666?gad_source=1&gclid=CjwKCAjw7NmzBhBLEiwAxrHQ-YgDhYzMJSNUCqxGMpByysQsSZZJUVylGDYs2WJAJcYG1gMWjo-haxoCSWAQAvD_BwE
+        )
+
+)
+
+2024-06-22 19:32:20 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): https://gold.ua/prod/men-39-s-watch-lc06641-350-1681666?gad_source=1&gclid=CjwKCAjw7NmzBhBLEiwAxrHQ-YgDhYzMJSNUCqxGMpByysQsSZZJUVylGDYs2WJAJcYG1gMWjo-haxoCSWAQAvD_BwE
+2024-06-22 19:32:20 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-22 19:32:20 - Successfully saved user and message
+2024-06-22 19:32:20 - User and message saved
+2024-06-22 19:32:20 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"https:\/\/gold.ua\/prod\/men-39-s-watch-lc06641-350-1681666?gad_source=1&gclid=CjwKCAjw7NmzBhBLEiwAxrHQ-YgDhYzMJSNUCqxGMpByysQsSZZJUVylGDYs2WJAJcYG1gMWjo-haxoCSWAQAvD_BwE","message_type":"text","media_url":null,"message_id_tg":5985339599943544099,"reply_to_message_id":null}
+2024-06-22 19:32:20 - Sent WebSocket message
+2024-06-24 10:50:53 - Successfully saved user and message
+2024-06-24 10:50:54 - Sent WebSocket message: {"user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","sender":"manager","message":"\u043f\u043a\u0435\u0440\u0435\u043a\u0440","message_type":"text","media_url":null,"message_id":null,"reply_to_message_id":null}
+2024-06-24 12:10:15 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1719220214656
+    [message_token:protected] => 5985953125145985762
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => https://t.me/elaliza_chat_bot?start=order_74398
+        )
+
+)
+
+2024-06-24 12:10:15 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): https://t.me/elaliza_chat_bot?start=order_74398
+2024-06-24 12:10:15 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-24 12:10:15 - Successfully saved user and message
+2024-06-24 12:10:15 - User and message saved
+2024-06-24 12:10:15 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"https:\/\/t.me\/elaliza_chat_bot?start=order_74398","message_type":"text","media_url":null,"message_id_tg":5985953125145985762,"reply_to_message_id":null}
+2024-06-24 12:10:15 - Sent WebSocket message
+2024-06-24 12:11:39 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1719220299174
+    [message_token:protected] => 5985953479342374986
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => https://t.me/elaliza_chat_bot?start=order_74398
+        )
+
+)
+
+2024-06-24 12:11:39 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): https://t.me/elaliza_chat_bot?start=order_74398
+2024-06-24 12:11:39 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-24 12:11:39 - Successfully saved user and message
+2024-06-24 12:11:39 - User and message saved
+2024-06-24 12:11:39 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"https:\/\/t.me\/elaliza_chat_bot?start=order_74398","message_type":"text","media_url":null,"message_id_tg":5985953479342374986,"reply_to_message_id":null}
+2024-06-24 12:11:39 - Sent WebSocket message
+2024-06-24 12:45:45 - Event details: Viber\Api\Event\Message Object
+(
+    [event:protected] => message
+    [timestamp:protected] => 1719222344536
+    [message_token:protected] => 5985962058631823611
+    [sender:protected] => Viber\Api\Sender Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                    [id] => setId
+                    [name] => setName
+                    [avatar] => setAvatar
+                )
+
+            [id:protected] => a6UVp3/Ew3y9rayqk7p3rg==
+            [name:protected] => Alex
+            [avatar:protected] => https://media-direct.cdn.viber.com/download_photo?dlid=bf_lyVDgp5qJ1EJOmQwUsSCpoKSoyu19M3Pn3a75xFuN6CmKXEVPCWtXxC3iJCxqMhPoqaH6BYrRm5hBTalBpXzNFGrOYpbsYPU_4qVHIOMxMpn6IGhxWP6hk8xVfjHC02nMeQ&fltp=jpg&imsz=0000
+        )
+
+    [message:protected] => Viber\Api\Message\Text Object
+        (
+            [propertiesMap:protected] => Array
+                (
+                )
+
+            [broadcast_list:protected] => 
+            [receiver:protected] => 
+            [type:protected] => text
+            [sender:protected] => 
+            [tracking_data:protected] => 
+            [min_api_version:protected] => 1
+            [keyboard:protected] => 
+            [text:protected] => https://t.me/elaliza_chat_bot?start=order_74398
+        )
+
+)
+
+2024-06-24 12:45:45 - Received text message from Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): https://t.me/elaliza_chat_bot?start=order_74398
+2024-06-24 12:45:45 - Saved avatar for user Alex (chat_id: a6UVp3/Ew3y9rayqk7p3rg==): 
+2024-06-24 12:45:45 - Successfully saved user and message
+2024-06-24 12:45:45 - User and message saved
+2024-06-24 12:45:45 - Sent WebSocket message: {"event":"message","user_id":"a6UVp3\/Ew3y9rayqk7p3rg==","user":"Alex","sender":"client","message":"https:\/\/t.me\/elaliza_chat_bot?start=order_74398","message_type":"text","media_url":null,"message_id_tg":5985962058631823611,"reply_to_message_id":null}
+2024-06-24 12:45:45 - Sent WebSocket message

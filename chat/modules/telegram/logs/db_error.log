@@ -1,0 +1,5 @@
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'card_number' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'card_number' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'card_number' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'card_number' in 'field list'
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_number' cannot be null

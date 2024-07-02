@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+</head>
+<body>
+    <div id="container">
+        <div id="typing-indicator" style="display:none;"></div>
+
+        <div id="chat-list">
+            <div id="back-button" style="display:none; cursor: pointer;">← Back</div>
+        </div>
+        <div id="chat-window">
+            <div id="messages" style="flex: 1; overflow-y: auto; display: grid;"></div>
+            <div id="message-form">
+                <input type="text" id="message-input" placeholder="Напишите сообщение...">
+                <input type="file" id="file-input" style="display:none;" multiple>
+                <button onclick="document.getElementById('file-input').click();">Загрузить изображение</button>
+                <button id="send-button-telegram" class="send-button-telegram" onclick="sendMessage()" style="display:none;">Отправить через Telegram</button>
+                <button id="send-button-viber" class="send-button-viber" onclick="sendMessage()" style="display:none;">Отправить через Viber</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="user-id" style="display:none;"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../scripts/common.js?v=0.0.19"></script>
+</body>
+</html>

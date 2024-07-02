@@ -1,0 +1,872 @@
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [error] => Order ID is required
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [error] => Order ID is required
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [error] => Order ID is required
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [error] => Order ID is required
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [id] => 74398
+    [delivery_id] => 0
+    [delivery_price] => 0.00
+    [separate_delivery] => 0
+    [payment_method_id] => 8
+    [paid] => 0
+    [payment_date] => 
+    [closed] => 0
+    [discount] => 0.00
+    [coupon_code] => 
+    [coupon_discount] => 0.00
+    [date] => 2024-05-12 20:54:48
+    [user_id] => 0
+    [name] => Ірина Свідерська
+    [name_2] => 
+    [address] => м.Одеса проспект Академіка Глушка, 29
+    [phone] => 0978212307
+    [email] => elaliza.ua
+    [comment] => 
+    [status_id] => 8
+    [visitor_referer] => /products/elegantna-chorna-sumka-z-dodatkovim-remenem-na-pleche?utm_source=albra&fbclid=IwAR2EmMu8-TBD0M9V8bPxQKdBGz6n9v6DauRzkLTAbjz0HQ4ruP4fkNwYvYM_aem_Aa1Mb8HOsA-JBTxXk9ftb5mrsk1h5GwA8CZPPqgKXXRRUajms4D_fPbynRlcRKGiM4fsMUNPxmqnwj2sY5PC6Zph
+    [url] => 5dc2e5bfc412123c3b8afac3b63427c4
+    [total_price] => 1149.00
+    [note] => игнорит
+    [ip] => 2a02:2378:11b9:7d4f:a952:b2c:1d31:441e
+    [utm_source] => albra
+    [oplacheno] => 
+    [ttn] => 
+    [lang_id] => 3
+    [purchases] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3925
+                    [order_id] => 74398
+                    [product_id] => 11963
+                    [variant_id] => 11984
+                    [product_name] => Елегантні сандалі в пудровому кольорі
+                    [variant_name] => 37р(24см)
+                    [price] => 350.00
+                    [amount] => 1
+                    [sku] => R21
+                    [units] => 
+                    [product_image_url] => img_20220831_121905_924.jpg
+                )
+
+            [1] => Array
+                (
+                    [id] => 3926
+                    [order_id] => 74398
+                    [product_id] => 15718
+                    [variant_id] => 15828
+                    [product_name] => Жіноча сумка "Жозефіна" чорна
+                    [variant_name] => чорний
+                    [price] => 799.00
+                    [amount] => 1
+                    [sku] => 2416
+                    [units] => 
+                    [product_image_url] => img_1312_1313.jpeg
+                )
+
+        )
+
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+ORDER order: Array
+(
+    [id] => 74398
+    [delivery_id] => 0
+    [delivery_price] => 0.00
+    [separate_delivery] => 0
+    [payment_method_id] => 8
+    [paid] => 0
+    [payment_date] => 
+    [closed] => 0
+    [discount] => 0.00
+    [coupon_code] => 
+    [coupon_discount] => 0.00
+    [date] => 2024-05-12 20:54:48
+    [user_id] => 0
+    [name] => Ірина Свідерська
+    [name_2] => 
+    [address] => м.Одеса проспект Академіка Глушка, 29
+    [phone] => 0978212307
+    [email] => elaliza.ua
+    [comment] => 
+    [status_id] => 8
+    [visitor_referer] => /products/elegantna-chorna-sumka-z-dodatkovim-remenem-na-pleche?utm_source=albra&fbclid=IwAR2EmMu8-TBD0M9V8bPxQKdBGz6n9v6DauRzkLTAbjz0HQ4ruP4fkNwYvYM_aem_Aa1Mb8HOsA-JBTxXk9ftb5mrsk1h5GwA8CZPPqgKXXRRUajms4D_fPbynRlcRKGiM4fsMUNPxmqnwj2sY5PC6Zph
+    [url] => 5dc2e5bfc412123c3b8afac3b63427c4
+    [total_price] => 1149.00
+    [note] => игнорит
+    [ip] => 2a02:2378:11b9:7d4f:a952:b2c:1d31:441e
+    [utm_source] => albra
+    [oplacheno] => 
+    [ttn] => 
+    [lang_id] => 3
+    [purchases] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3925
+                    [order_id] => 74398
+                    [product_id] => 11963
+                    [variant_id] => 11984
+                    [product_name] => Елегантні сандалі в пудровому кольорі
+                    [variant_name] => 37р(24см)
+                    [price] => 350.00
+                    [amount] => 1
+                    [sku] => R21
+                    [units] => 
+                    [product_image_url] => img_20220831_121905_924.jpg
+                )
+
+            [1] => Array
+                (
+                    [id] => 3926
+                    [order_id] => 74398
+                    [product_id] => 15718
+                    [variant_id] => 15828
+                    [product_name] => Жіноча сумка "Жозефіна" чорна
+                    [variant_name] => чорний
+                    [price] => 799.00
+                    [amount] => 1
+                    [sku] => 2416
+                    [units] => 
+                    [product_image_url] => img_1312_1313.jpeg
+                )
+
+        )
+
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74399 for User ID: 566815607
+Extracted order number: 74399
+Order validation. User ID: 566815607, Order Number: 74399, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 2
+    [user_id] => 566815607
+    [order_number] => 74399
+    [status] => order_confirmation
+    [created_at] => 2024-06-27 11:08:08
+    [updated_at] => 2024-06-27 11:08:08
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74399
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74399 for User ID: 566815607
+Extracted order number: 74399
+Order validation. User ID: 566815607, Order Number: 74399, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 2
+    [user_id] => 566815607
+    [order_number] => 74399
+    [status] => order_confirmation
+    [created_at] => 2024-06-27 11:08:08
+    [updated_at] => 2024-06-27 11:08:08
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74399
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74399 for User ID: 566815607
+OrderConfirmationModule instantiated.
+Handling message: ааа for User ID: 566815607
+OrderConfirmationModule instantiated.
+Handling message: ааука for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74399 for User ID: 566815607
+Extracted order number: 74399
+Order validation. User ID: 566815607, Order Number: 74399, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 2
+    [user_id] => 566815607
+    [order_number] => 74399
+    [status] => order_confirmation
+    [created_at] => 2024-06-27 11:08:08
+    [updated_at] => 2024-06-27 11:08:08
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74399
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: false
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: false
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: false
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: false
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 14
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:20:19
+    [updated_at] => 2024-07-02 12:20:19
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 14
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:20:19
+    [updated_at] => 2024-07-02 12:20:23
+    [funnel_stage] => payment_method
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 14
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:20:19
+    [updated_at] => 2024-07-02 12:20:23
+    [funnel_stage] => payment_method
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 14
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:20:19
+    [updated_at] => 2024-07-02 12:20:23
+    [funnel_stage] => payment_method
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 6976174207
+Extracted order number: 74964
+Order validation. User ID: 6976174207, Order Number: 74964, Valid: false
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 19
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:51:47
+    [updated_at] => 2024-07-02 12:51:47
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74399 for User ID: 566815607
+Extracted order number: 74399
+Order validation. User ID: 566815607, Order Number: 74399, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 20
+    [user_id] => 566815607
+    [order_number] => 74399
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:53:29
+    [updated_at] => 2024-07-02 12:53:29
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74399
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74399 for User ID: 566815607
+Extracted order number: 74399
+Order validation. User ID: 566815607, Order Number: 74399, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 20
+    [user_id] => 566815607
+    [order_number] => 74399
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:53:29
+    [updated_at] => 2024-07-02 12:53:29
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74399
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 19
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:51:47
+    [updated_at] => 2024-07-02 12:51:51
+    [funnel_stage] => payment_method
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 19
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 12:51:47
+    [updated_at] => 2024-07-02 12:51:51
+    [funnel_stage] => payment_method
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 21
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:00:41
+    [updated_at] => 2024-07-02 14:00:41
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 22
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:02:26
+    [updated_at] => 2024-07-02 14:02:26
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 23
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:05:08
+    [updated_at] => 2024-07-02 14:05:08
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 24
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:07:56
+    [updated_at] => 2024-07-02 14:07:56
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 25
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:09:57
+    [updated_at] => 2024-07-02 14:09:57
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 25
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:09:57
+    [updated_at] => 2024-07-02 14:09:57
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: товар for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 26
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:13:11
+    [updated_at] => 2024-07-02 14:13:11
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 26
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:13:11
+    [updated_at] => 2024-07-02 14:13:11
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 27
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => awaiting choice
+    [created_at] => 2024-07-02 14:14:48
+    [updated_at] => 2024-07-02 14:14:48
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 28
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => awaiting choice
+    [created_at] => 2024-07-02 14:16:07
+    [updated_at] => 2024-07-02 14:16:07
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 29
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:17:26
+    [updated_at] => 2024-07-02 14:17:26
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 30
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:21:39
+    [updated_at] => 2024-07-02 14:21:39
+    [funnel_stage] => order_confirmation
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 30
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:21:39
+    [updated_at] => 2024-07-02 14:21:39
+    [funnel_stage] => order_confirmation
+)
+
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: https://t.me/elaliza_chat_bot?start=manager_
+
+
+https://t.me/elaliza_chat_bot?start=order_74964 for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: /start order_74964 for User ID: 566815607
+Extracted order number: 74964
+Order validation. User ID: 566815607, Order Number: 74964, Valid: true
+Order is valid.
+Fetched order: Array
+(
+    [id] => 30
+    [user_id] => 566815607
+    [order_number] => 74964
+    [status] => order_confirmation
+    [created_at] => 2024-07-02 14:21:39
+    [updated_at] => 2024-07-02 14:21:39
+    [funnel_stage] => order_confirmation
+)
+
+Sent order confirmation message to User ID: 566815607 for Order Number: 74964
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Так for User ID: 566815607
+Received callback query: Так for User ID: 566815607
+OrderConfirmationModule instantiated.
+OrderConfirmationModule instantiated.
+Handling message: Варіант 1 for User ID: 566815607

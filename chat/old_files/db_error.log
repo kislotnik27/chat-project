@@ -1,0 +1,28 @@
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message' cannot be null
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'avatar' in 'field list'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'telegram-' for key 'unique_user'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'file_id' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'file_id' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'file_id' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'file_id' in 'field list'
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'message' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sender' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sender' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sender' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sender' cannot be null
