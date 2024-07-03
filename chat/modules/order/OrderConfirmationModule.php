@@ -17,11 +17,12 @@ class OrderConfirmationModule {
         $order_number = $this->extractOrderNumber($text);
         if ($order_number) {
             file_put_contents(__DIR__ . '/order_confirmation_debug.log', 'Extracted order number: ' . $order_number . PHP_EOL, FILE_APPEND);
+            $this->updateFunnelStage($user_id, $order_number, 'awaiting_choice'); // Добавлено
             if ($this->isOrderValid($user_id, $order_number)) {
                 file_put_contents(__DIR__ . '/order_confirmation_debug.log', 'Order is valid.' . PHP_EOL, FILE_APPEND);
                 $order = $this->getOrder($user_id, $order_number);
                 switch ($order['funnel_stage']) {
-                    case 'order_confirmation':
+                    case 'awaiting_choice':
                         $this->handleOrderConfirmation($user_id, $order_number, $text);
                         break;
                     case 'payment_method':
@@ -39,7 +40,7 @@ class OrderConfirmationModule {
                 $this->handlePaymentMethod($user_id, null, $text);
                 $order_number = $this->getOrderNumberByUser($user_id);
                 if ($order_number) {
-                    $this->updateFunnelStage($user_id, $order_number, 'waiting_payment');
+                    $this->updateFunnelStage($user_id, $order_number, 'waiting_payment'); // Добавлено
                 }
             } elseif (strtolower($text) == 'товар') {
                 // Добавим отправку информации о товарах
@@ -55,6 +56,7 @@ class OrderConfirmationModule {
         }
     }
 
+
     public function handleCallbackQuery($callback_data, $user_id) {
         file_put_contents(__DIR__ . '/order_confirmation_debug.log', 'Received callback query: ' . $callback_data . ' for User ID: ' . $user_id . PHP_EOL, FILE_APPEND);
 
@@ -62,17 +64,23 @@ class OrderConfirmationModule {
             $order_number = $this->getOrderNumberByUser($user_id);
             if ($order_number) {
                 // Отправляем информацию о товарах после подтверждения заказа
-                //$this->sendProductDetails($user_id, $order_number); 
-                $this->updateFunnelStage($user_id, $order_number, 'choice_payment');
+                //$this->sendProductDetails($user_id, $order_number);
+                $this->updateFunnelStage($user_id, $order_number, 'order_confirmation'); // Изменено
                 $this->sendPaymentMethodMessage($user_id);
             }
         } elseif ($callback_data == 'Ні') {
+            $order_number = $this->getOrderNumberByUser($user_id); // Добавлено
+            if ($order_number) { // Добавлено
+                $this->updateFunnelStage($user_id, $order_number, 'cancel_confirmation'); // Добавлено
+                $this->sendMessage($user_id, 'Добре💛 Напишемо вам трохи пізніше');
+            } // Добавлено
             $this->updateUserStatus($user_id, 'manual');
         }
     }
 
+
     private function getOrderNumberByUser($user_id) {
-        $stmt = $this->pdo->prepare("SELECT order_number FROM orders WHERE user_id = ? AND status = 'order_confirmation'");
+        $stmt = $this->pdo->prepare("SELECT order_number FROM orders WHERE user_id = ? AND status = 'awaiting_choice'");
         $stmt->execute([$user_id]);
         return $stmt->fetchColumn();
     }
