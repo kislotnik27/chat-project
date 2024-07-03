@@ -158,7 +158,7 @@ class TelegramModule {
 
             if ($orderExists == 0) {
                 // Заказ не существует, добавляем его в базу данных
-                $stmt = $this->pdo->prepare("INSERT INTO orders (user_id, order_number, status) VALUES (?, ?, 'order_confirmation')");
+                $stmt = $this->pdo->prepare("INSERT INTO orders (user_id, order_number, status) VALUES (?, ?, 'awaiting_choice')");
                 $stmt->execute([$user_id, $order_number]);
                 return $this->pdo->lastInsertId();
             }
